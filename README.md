@@ -2,6 +2,8 @@ Question 1
 - This assignment is written using React.JS & PHP laravel project.
 - Backend project is playingcard-web-service
 - Frontend project is frontend-react-app
+- Frontend API url located frontend-react-app/src/App.js (Hardcoded for demo purpose)
+- http://playingcard-web-service.localhost.com change to your local domain 
 - setup yarn dependencies by running
   yarn
 - In order to run frontend-react-app, Go to the project and type

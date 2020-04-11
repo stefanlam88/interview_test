@@ -14,6 +14,7 @@ class App extends Component {
     }
 
     _callPlayingCardsAPI = () => {
+        //API URL, temporary hardcode for demo purpose
         fetch('http://playingcard-web-service.localhost.com/api/card?number_users='+this.state.pageNum)
               .then(res => res.json())
               .then((data) => {

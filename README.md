@@ -2,6 +2,8 @@ Question 1
 - This assignment is written using React.JS & PHP laravel project.
 - Backend project is playingcard-web-service
 - Frontend project is frontend-react-app
+- setup yarn dependencies by running
+  yarn
 - In order to run frontend-react-app, Go to the project and type
   yarn start
 - Default would be localhost:3000
